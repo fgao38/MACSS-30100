@@ -250,3 +250,4 @@ def assert_Xbeta(X, beta, fname=''):
             "X had {xcol} column(s) and beta had length {betalen}.",
             xcol=X.shape[1],
             betalen=beta.shape[0])
+
